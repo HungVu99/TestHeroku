@@ -7,11 +7,15 @@
 	<?php
 	echo "I Miss You 3000 !!!";
 	?>
-<table border="0" cellpadding="10">
+<table border="1" cellpadding="10">
 
 	<tr>
-		<td><img src="images/a2.jpg" alt=""  width = "50%" height = "600px"></td>
+		<td><img src="images/a3.jpg" alt=""  width = "50%" height = "600px"></td>
+	</tr>
+	<tr>
 		<td>Vu Manh Hung</td>
+	</tr>
+	<tr>
 		<td>DOTA</td>
 	</tr>
 
